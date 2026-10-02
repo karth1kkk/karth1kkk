@@ -11,7 +11,6 @@ I primarily work with **JavaScript and modern web technologies**, with a focus o
 * 🔧 Experience with **REST APIs, GraphQL, Laravel, Ruby on Rails, and FastAPI**
 * 🗄️ Experience working with **PostgreSQL, MySQL, and MongoDB**
 * ☁️ Familiar with **AWS, Google Cloud, and Docker**
-* 🤖 Interested in **AI engineering and AI-assisted development**
 * 📈 Interested in financial technology and market-data applications
 * 🌱 Currently strengthening my software engineering fundamentals and expanding into AI
 
