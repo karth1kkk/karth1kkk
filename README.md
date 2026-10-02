@@ -59,13 +59,13 @@ I primarily work with **JavaScript and modern web technologies**, with a focus o
 
 ### 📌 Featured Projects
 
-**🌐 [My Portfolio](https://karth1kkk-dev.vercel.app/)**
-
-My personal developer portfolio featuring a 3D-focused interactive experience and showcasing my projects, skills, and development work.
-
 **🤖 [CoTrader](https://co-trader-beta-v1.vercel.app/)**
 
 AI-powered automated trading system integrating economic data, financial news analysis, and automated trading infrastructure.
+
+**🌐 [SecureChat](https://securechat-five-xi.vercel.app/)**
+
+A secure mobile messaging app that monitors suspicious activity and protects user privacy.
 
 **☕ [Smart Cafe Management System](https://github.com/karth1kkk/Smart-Cafe-Management-System)**
 
