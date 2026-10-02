@@ -49,7 +49,7 @@ I primarily work with **JavaScript and modern web technologies**, with a focus o
 
 ### 📌 Featured Projects
 
-**🌐 [3D Portfolio](https://karth1kkk-dev.vercel.app/)**
+**🌐 [My Portfolio](https://karth1kkk-dev.vercel.app/)**
 
 My personal developer portfolio featuring a 3D-focused interactive experience and showcasing my projects, skills, and development work.
 
