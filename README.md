@@ -75,7 +75,7 @@ Full-stack cafe management and POS system built with Laravel, React, TypeScript,
 
 * Strengthening JavaScript & TypeScript fundamentals
 * Data structures & algorithms
-* Strengthening logical thinking with Leetcode.
+/* Strengthening logical thinking with Leetcode.*/
 * Backend architecture and API design
 * Building cleaner, more maintainable software
 
